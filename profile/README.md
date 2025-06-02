@@ -1,6 +1,6 @@
 <!-- .github/profile/README.md -->
 
-<img src="https://raw.githubusercontent.com/nebula-kr/.github/main/profile/logo.png" width="120" align="right" alt="Nebula Logo">
+<img src="https://raw.githubusercontent.com/nebula-kr/.github/main/profile/nebula.png" width="120" align="right" alt="Nebula Logo">
 
 # Nebula
 
